@@ -1,1 +1,9 @@
 You are highly favoredd
+
+GIT WORK FLOW SUMMARY
+
+git init    #start the git project 
+git status    [ to check the state ofr the files ]
+git add .    [ to add everything to what will be commited ]
+git add [filename00]   # git add walson.txt
+
