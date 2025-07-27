@@ -7,3 +7,9 @@ git status    [ to check the state ofr the files ]
 git add .    [ to add everything to what will be commited ]
 git add [filename00]   # git add walson.txt
 
+PUSHING TO REMOTE 
+
+ADD THE ALIAS OF TRHE REPO 
+EGG
+
+git remote add https://github.com/CLASS32-DEVOPS-cloud/CLASS32-PUBLIC-REPO.git
